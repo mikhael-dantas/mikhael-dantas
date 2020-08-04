@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**mikhael-dantas/mikhael-dantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mikhael Dantas
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou apaixonado programação e por solucionar problemas utilizando tecnologia.
+Sou um Desenvolvedor Back-end, e atuo como Fullstack nos meus projetos pessoais. :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end utilizando Frameworks Nodejs.
+ <br/> :blush: &nbsp; Posso te ajudar com a elaboração de soluções tecnológicas, seja um simples algoritmo ou uma implementação em um modelo de negócios. 
+ <br/> :computer: &nbsp; Minha stack: Node.js, ReactJS, React Native & Typescript.
+ <br/> 💬  &nbsp; Sobre mim: Sou apaixonado por tecnologia, games retro e pixel art.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MikhaelDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhael-dantas/)](https://www.linkedin.com/in/mikhael-dantas/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-mikhael.dcs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikhael.dcs@gmail.com)](mikhael.dcs@gmail.com)
