@@ -12,4 +12,4 @@ Sou um Desenvolvedor Back-end, e atuo como Fullstack nos meus projetos pessoais.
  <br/> 💬  &nbsp; Sobre mim: Sou apaixonado por tecnologia, games retro e pixel art.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MikhaelDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhael-dantas/)](https://www.linkedin.com/in/mikhael-dantas/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-mikhael.dcs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikhael.dcs@gmail.com)](mikhael.dcs@gmail.com)
+Email: mikhael-dcs@outlook.com
