@@ -13,4 +13,3 @@ As a self-taught developer, mainly focused on backend most of the time, I have b
  <br/> :email: &nbsp; Want to contact me?
  <br/>  Email: mikhael-dcs@outlook.com
  <br/>  [![Linkedin Badge](https://img.shields.io/badge/-MikhaelDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhael-dantas/)](https://www.linkedin.com/in/mikhael-dantas/) 
- <br/> Or see more info in my web page: [www.mikhaeldantas.com](https://www.mikhaeldantas.com/) 
