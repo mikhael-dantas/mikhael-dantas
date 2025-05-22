@@ -9,7 +9,6 @@ As a self-taught developer, mainly focused on backend most of the time, I have b
 
  <br/> :purple_heart: &nbsp; Currently working mostly on NodeJs frameworks, using Typescript as main choice.
  <br/> :blush: &nbsp; I can help with anything related to programming, solving problems or surpassing challenges. 
- <br/> :computer: &nbsp; You can see my complete skillset on my personal web page: [www.mikhaeldantas.com](https://www.mikhaeldantas.com/) 
  <br/> 💬  &nbsp; More about me? I love logic, programming, gaming, science and technology, I would say I'm a curious person.
  <br/> :email: &nbsp; Want to contact me?
  <br/>  Email: mikhael-dcs@outlook.com
