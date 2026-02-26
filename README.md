@@ -2,49 +2,40 @@
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-development-5402852-4521465.png" width="150" alt="3D Web Dev Icon" />
 
   # Hi there, I'm Mikhael Dantas 👋
-  ### Lead Software Engineer | Architecting Scalable Software & Solutions
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Lead+Software+Engineer;Backend+%26+Cloud+Architecture;Node.js+%2B+TypeScript+Enthusiast;Building+Enterprise-Grade+Software)](https://git.io/typing-svg)
+  ### Solutions Architect & Lead Software Engineer | Turning Business Challenges into Scalable Products
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Every challenge is an opportunity to learn, improve, and scale. [cite_start]I am a **Lead Software Engineer** with over 10 years of experience specializing in architecting and scaling robust solutions—from dynamic CRMs to complex enterprise-grade software. 
+For me, technology is a means to an end: solving real-world problems and creating tangible business value. With over 10 years of experience in technical leadership and software engineering, I specialize in looking beyond the code to understand the "why" behind a product. 
 
-[cite_start]Part of my journey has been dedicated to establishing a solid foundation in computer science, mastering design patterns, and implementing modern DevOps practices[cite: 53]. [cite_start]While I have deep expertise in backend architecture, my approach is technology-agnostic and focused on delivering high-impact, resilient products[cite: 51, 53].
+My focus is acting as a strategic partner—bridging business objectives with technical execution. Whether I'm designing dynamic CRMs or architecting comprehensive enterprise-grade ERPs, my goal is to deliver robust solutions that optimize operations, streamline workflows, and drive company growth. I build high-performing teams and resilient infrastructures that don't just work technically, but succeed commercially.
 
-* [cite_start]🔭 **Currently working on:** End-to-end architecture for flagship enterprise ERPs and scalable backend services[cite: 64, 66].
-* [cite_start]💡 **Tech Focus:** Deeply focused on **Node.js** and **TypeScript**, enforcing strict type safety and high-throughput performance[cite: 53, 66].
-* [cite_start]🚀 **Passionate about:** AI-driven automations, modern cloud infrastructure (Docker, Kubernetes), and mentoring high-performing engineering teams[cite: 53, 68].
-* 💬 **Ask me about:** Backend architecture, system design, problem-solving, gaming, science, or even AI art generation!
-* 📫 **Reach out:** I'm always open to discussing technology, solving complex problems, or surpassing new challenges together.
+* 🔭 **Currently working on:** End-to-end architecture for enterprise ERPs, focusing on transforming complex business rules into seamless digital workflows.
+* 💡 **Core Focus:** Product strategy, ROI-driven architecture, and delivering scalable solutions from MVP to enterprise level.
+* 🚀 **Passionate about:** Translating business requirements into intuitive, reliable, and future-proof software ecosystems.
+* 💬 **Ask me about:** Tech strategy, system architecture, transforming ideas into profitable digital products, or team leadership!
 
 ---
 
-## 🛠️ Core Technologies & Tools
+## 🛠️ Tech & Solutions Stack
+
+_Technology is the toolkit I use to solve problems efficiently._
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,mongodb,redis,kafka,docker,kubernetes,aws,gcp,git,linux" alt="Mikhael's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,mongodb,redis,kafka,docker,kubernetes,aws,gcp,git,linux&perline=7" alt="Mikhael's Tech Stack" />
   </a>
 </div>
 
 <br/>
 
-* [cite_start]**Architecture:** Microservices, SaaS/ERP Architecture, CI/CD pipelines[cite: 55, 59].
-* [cite_start]**Backend:** Node.js, TypeScript, REST/GraphQL, Nest.js[cite: 56].
-* [cite_start]**Database & Cloud:** PostgreSQL, Redis, RabbitMQ/Kafka, Docker, Kubernetes[cite: 58, 59].
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikhael-dantas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mikhael's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhael-dantas&theme=tokyonight&hide_border=true&background=0D1117" alt="Mikhael's GitHub Streak" width="48%" />
-</div>
+* **Solutions Design:** Enterprise Architecture (SaaS/CRM/ERP), Product Strategy, Cloud-Native Solutions, Agile Methodologies.
+* **Backend & API:** Node.js, TypeScript, REST/GraphQL, Microservices.
+* **Data Strategy:** PostgreSQL, MongoDB, Redis, Message Brokers (RabbitMQ/Kafka).
+* **Infrastructure & DevOps:** CI/CD Automation, Docker, Kubernetes, AWS/GCP, Infrastructure as Code.
 
 ---
 
